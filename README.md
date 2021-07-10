@@ -4,7 +4,7 @@ I'm Francisco João, best know as Chicão, I'm a undergraduated Software Engenir
 
 - 🔭 I’m currently working on Software Innovation Lab. (LIS)
 - 📫 How to reach me: [E-mail](mailto:franciscojoaoluccaneto@gmail.com) or [Linkedin](https://www.linkedin.com/in/francisco-jo%C3%A3o-lucca-neto/)
-- 🌱 I’m currently interested with devOps technologies, such as:
+- 🌱 I’m currently interested with some tecnologies, such as:
 
 <p align="center">
 <img align="center" alt="Java" width="50px" src="https://logospng.org/download/java/logo-java-256.png"/>
