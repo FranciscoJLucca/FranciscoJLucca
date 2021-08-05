@@ -20,6 +20,8 @@ I'm Francisco João, best know as Chicão, I'm a undergraduated Software Engenir
 <img align="center" alt="Golang" width="60px" src="https://blog.golang.org/go-brand/Go-Logo/PNG/Go-Logo_Aqua.png"/>
 </p>
 
-<!---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoJLucca&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<!---
 >
